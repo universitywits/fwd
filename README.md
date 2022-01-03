@@ -59,7 +59,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 ### Deploying on Heroku:
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/Judson-web/Frwdit-V2-1"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Universitywits/forwarderpro"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ### Credits
 
